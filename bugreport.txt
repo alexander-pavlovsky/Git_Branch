@@ -1,5 +1,3 @@
-Subject: Unable to upload profile picture
-
 Steps to reproduce:
 
 Log in to the application.
@@ -7,24 +5,3 @@ Navigate to the profile page.
 Click on the "Change Profile Picture" button.
 Select a new image from the file browser.
 Click the "Upload" button.
-Expected result: The new profile picture is uploaded successfully and displayed on the profile page.
-
-Actual result: After step 5, the page reloads but the profile picture remains unchanged. No error message is displayed.
-
-Environment:
-
-Browser: Google Chrome Version 94.0.4606.61 (Official Build) (64-bit)
-Operating system: Windows 10
-Application version: 1.2.3
-Additional information:
-
-I have tried uploading different image formats (PNG, JPG) and sizes (100KB, 1MB) but the issue persists.
-I have also tried clearing my browser cache and cookies, but the issue persists.
-Severity: High
-
-Impact: Users are unable to change their profile pictures, which can affect their experience using the application.
-
-Priority: High
-
-Workaround: None
-
