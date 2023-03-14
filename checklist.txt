@@ -1,0 +1,17 @@
+Title: Pre-launch website checklist
+
+ Test all website functionality and features.
+ Check website performance and speed.
+ Test website responsiveness on various devices and screen sizes.
+ Verify that all content is up to date and accurate.
+ Check spelling and grammar across all pages.
+ Verify that all links and buttons are working correctly.
+ Test all forms and ensure they are submitting data correctly.
+ Check that all images are optimized for web and loading correctly.
+ Verify that the website is compatible with all major browsers.
+ Test website accessibility and ensure it complies with WCAG 2.1 standards.
+ Confirm that all SEO settings are properly configured.
+ Check website analytics and tracking settings.
+ Verify that website backups are scheduled and working correctly.
+ Check for any security vulnerabilities and apply necessary patches.
+ Verify that all required legal pages (privacy policy, terms of use, etc.) are present and up to date.
